@@ -1,6 +1,9 @@
 # Collections Framework
 The Java Collections Framework is a set of classes and interfaces that make it easier to store and , manipulate and process groups of objects (like lists,sets ,maps).
 
+### "Collections Framework = Ready-made toolbox in Java for handling data (lists, sets, maps) with built-in methods like search, sort, insert, delete.”
+
+
 
 ## Why collections ?
 
@@ -36,5 +39,3 @@ Collections - dynamic, flexible, provide ready-made methods(search, sort, insert
 -Collection class
 -Arrays Class
 
-
-#### “Collections Framework = Ready-made toolbox in Java for handling data (lists, sets, maps) with built-in methods like search, sort, insert, delete.”

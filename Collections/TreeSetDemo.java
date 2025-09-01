@@ -11,7 +11,7 @@ public class TreeSetDemo {
         set.add(30);
         set.add(10);
 
-        System.out.println(set);                //auto sort the elements , while ignoring the duplicates
+        System.out.println(set);                //Auto sort the elements , while ignoring the duplicates
     }
     
 }

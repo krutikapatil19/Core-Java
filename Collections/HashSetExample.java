@@ -7,7 +7,7 @@ public class HashSetExample {                   //HashSet = stores unique elemen
         //Insert 
         numbers.add(10);
         numbers.add(20);
-        numbers.add(10);                //duplicate ignored
+        numbers.add(10);                //duplicates ignored
         numbers.add(30);
 
         //Display

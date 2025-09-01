@@ -7,6 +7,7 @@ public class ArrayListExample {
         fruits.add("Apple");
         fruits.add("Banana");
         fruits.add("Apple");        //duplicates allowed
+        fruits.add("Pineapple");
 
         //Display
         System.out.println("Fruits : " + fruits);

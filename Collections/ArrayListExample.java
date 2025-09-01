@@ -1,5 +1,5 @@
 import java.util.*;
-public class ListExample {
+public class ArrayListExample {
     public static void main(String []args) {
         List<String> fruits = new ArrayList<>();
 
@@ -21,3 +21,6 @@ public class ListExample {
     }
 }
       
+//List-> Ordered + duplicates allowed
+//Set -> Unordered + No duplicates allowed
+//Map -> Key-Value pairs

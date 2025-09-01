@@ -6,7 +6,7 @@ public class ArrayListExample {
         //Insert
         fruits.add("Apple");                                                //add elements 
         fruits.add("Banana");
-        fruits.add("Apple");        //duplicates allowed
+        fruits.add("Apple");        //duplicates are allowed
         fruits.add("Pineapple");
 
         //Display

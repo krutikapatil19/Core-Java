@@ -8,6 +8,7 @@ public class HashSetExample {
         numbers.add(10);
         numbers.add(20);
         numbers.add(10);                //duplicate ignored
+        numbers.add(30);
 
         //Display
         System.out.println("Numbers : " + numbers);

@@ -1,16 +1,16 @@
 import java.util.*;
 public class ArrayListExample {
     public static void main(String []args) {
-        List<String> fruits = new ArrayList<>();
+        List<String> fruits = new ArrayList<>();                              //ArrayList = resizable array 
 
         //Insert
-        fruits.add("Apple");
+        fruits.add("Apple");                                                //add elements 
         fruits.add("Banana");
         fruits.add("Apple");        //duplicates allowed
         fruits.add("Pineapple");
 
         //Display
-        System.out.println("Fruits : " + fruits);
+        System.out.println("Fruits : " + fruits);                             //print list 
 
         //Search
         System.out.println("Contains Banana ? " + fruits.contains("Banana"));

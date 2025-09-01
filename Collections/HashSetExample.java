@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class HashSetExample {
+public class HashSetExample {                   //HashSet = stores unique elements, no duplicates
     public static void main(String[] args) {
         Set<Integer> numbers = new HashSet<>();
 

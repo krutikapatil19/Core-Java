@@ -11,7 +11,7 @@ public class TreeMapDemo {
         map.put(80,"C");
         map.put(200,"D");
 
-        System.out.println(map);                //sorted by key 
+        System.out.println(map);                //sort elements by key values
     }
     
 }

@@ -12,8 +12,8 @@ public class LinkedListDemo {
 
         System.out.println(list);
 
-        list.addFirst(5);                       //add 5 as the first element
-        list.addLast(40);                       //add 40 as the last element 
+        list.addFirst(5);                       //add 5 as the first element.
+        list.addLast(40);                       //add 40 as the last element.
 
         System.out.println(list);
     }

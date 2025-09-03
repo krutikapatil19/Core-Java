@@ -9,6 +9,8 @@ public class ThreadUsingRunnable {
     public static void main(String[] args) {
         MyRunnable r = new MyRunnable();
         Thread t = new Thread(r);               //pass runnable to thread
-        t.start();
+        t.start();                              //start thread
     }
 }
+
+//Runnable helps when the class already extends something else.

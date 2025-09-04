@@ -17,6 +17,9 @@ public class PriorityExample {
     }
 }
 
-/*Thread priority = number(1-10)
- * Higher priority means thread gets more chance to run (but depends on CPU scheduler).
+/*Each thread has priority (1-10).
+ * Higher priority -> thread gets more chance to run (but depends on CPU scheduler).
+ * Default priority = 5.
+ * We use 'setPriority()' to change.
+ * Thread Priority -> decides which thread should get CPU preference.
  */

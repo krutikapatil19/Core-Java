@@ -38,7 +38,7 @@ public class SyncExample {
     }
 }
 
-/*Without synchonized, multiple threads may change value wrongly.
+/* Without synchonized, multiple threads may change value wrongly.
  * synchronized ensures only one thread updates at a time.
  * For ex: In a bank , withdrawal is done by two 2 at the same time , so it ensures only one thread can access at a time.
  * It prevents multiple threads from accessing shared data at the same time(avoids wrong results).

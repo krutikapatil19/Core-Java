@@ -26,4 +26,6 @@ public class ClassExample {
     
 }
 
-//A class is like a blueprint (it defines properties and actions)
+/* A class is like a blueprint (it defines properties and actions)
+A class is a collection of variables (data members) and methods(functions).
+Object is an instance(real version) of a class. The object is stored in the heap memory 

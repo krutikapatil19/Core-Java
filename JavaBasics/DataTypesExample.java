@@ -22,3 +22,8 @@ public class DataTypesExample {
         System.out.println("Fruit: " + fruitName);
     }
 }
+
+
+//Data types - define the type and size of data a variable can hold.
+//Primitive types are stored in stack memory , reference types in heap.
+//Variables - memory containers that hold value of specific data type.

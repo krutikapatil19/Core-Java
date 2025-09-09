@@ -19,3 +19,6 @@ public class DequeExample {
         System.out.println("After removals: " + dq);
     }
 }
+
+//Deque - Double ended queue - in Java is an interface in the Collection Framework that allows insertion and deletion from both ends. 
+//It is implemented mainly by ArrayDeque and LinkedList, and is widely used in undo/redo, browser navigation and task scheduling.
